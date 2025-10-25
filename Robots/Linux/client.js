@@ -3,7 +3,7 @@ const { spawn } = require('child_process');
 const { RTCPeerConnection, RTCSessionDescription, RTCIceCandidate } = require('wrtc');
 const EventEmitter = require('events');
 const messageEmitter = new EventEmitter();
-const url = 'https://sp4wn-signaling-server.onrender.com';
+const url = 'https://sp4wn.com';
 const config = require('./config');
 
 const username = config.username;

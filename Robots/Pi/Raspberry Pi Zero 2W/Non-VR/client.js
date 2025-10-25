@@ -1,7 +1,7 @@
 const WebSocket = require('ws');
 const { spawn } = require('child_process');
 const { RTCPeerConnection, RTCSessionDescription, RTCIceCandidate } = require('wrtc');
-const url = 'https://sp4wn-signaling-server.onrender.com';
+const url = 'https://sp4wn.com';
 const pipins = require('@sp4wn/pipins');
 const config = require('./config');
 
