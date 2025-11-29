@@ -2,7 +2,7 @@
 
 ## Step 1 - Install scripts
 ```bash
-sudo sh -c "wget https://github.com/sp4wn-owner/Spawn/blob/main/Robots/Linux/setup.sh && chmod +x setup.sh && ./setup.sh"
+sudo sh -c "wget https://github.com/sp4wn-owner/teleoperation/blob/main/Robots/Linux/setup.sh && chmod +x setup.sh && ./setup.sh"
 ```
 
 ### Update the config.js file with your username/password
