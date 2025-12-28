@@ -1,4 +1,4 @@
-# [Spawn](https://sp4wn.com)
+# [Spawn](https://teleop.sp4wn.com)
 
 *** VR teleoperation web interface will be relaunched in 2026!
 
